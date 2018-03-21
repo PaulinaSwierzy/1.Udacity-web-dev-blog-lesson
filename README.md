@@ -1,3 +1,1 @@
-<!DOCTYPE html>
-<head></head>
-<body>  
+Simple page to play with github.
